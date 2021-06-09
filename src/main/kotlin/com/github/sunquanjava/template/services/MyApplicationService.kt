@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sunquanjava.template.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sunquanjava.template.MyBundle
 
 class MyApplicationService {
 
